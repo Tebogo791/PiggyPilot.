@@ -1,8 +1,8 @@
 Introduction:
 The Piggy Pilot Budget Tracker app was developed collaboratively by three team members. Tebogo Mabusela and Dumisa Lubisi handled the coding and development of the application using Android Studio and Kotlin. Kagiso Maputla focused on the voiceover recording and YouTube video presentation. Together, they successfully delivered a functional budget tracking app with all required features.
 
-https://youtu.be/ERosVQUJSoo?si=EY0RthrJGGqLKVci
-https://github.com/Tebogo791/PiggyPilot..git
+Youtube: https://youtu.be/ERosVQUJSoo?si=EY0RthrJGGqLKVci
+GitHub: https://github.com/Tebogo791/PiggyPilot..git
 
 How to run the app:
 1.Launch Android Studio from your desktop or start menu.
